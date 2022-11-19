@@ -1,0 +1,106 @@
+{
+  "A": {
+    "A": {
+      "A": "Lysine",
+      "U": "Asparagine",
+      "C": "Asparagine",
+      "G": "Lysine"
+    },
+    "U": {
+      "A": "Isoleucine",
+      "U": "Isoleucine",
+      "C": "Isoleucine",
+      "G": "Methionine (START)"
+    },
+    "C": {
+      "A": "Threonine",
+      "U": "Threonine",
+      "C": "Threonine",
+      "G": "Threonine"
+    },
+    "G": {
+      "A": "Arginine",
+      "U": "Serine",
+      "C": "Serine",
+      "G": "Arginine"
+    }
+  },
+  "U": {
+    "A": {
+      "A": "Ochre (STOP)",
+      "U": "Tyrosine",
+      "C": "Tyrosine",
+      "G": "Amber (STOP)"
+    },
+    "U": {
+      "A": "Leucine",
+      "U": "Phenylalanine",
+      "C": "Phenylalanine",
+      "G": "Leucine"
+    },
+    "C": {
+      "A": "Serine",
+      "U": "Serine",
+      "C": "Serine",
+      "G": "Serine"
+    },
+    "G": {
+      "A": "Opal (STOP)",
+      "U": "Cysteine",
+      "C": "Cysteine",
+      "G": "Tryptophan"
+    }
+  },
+  "C": {
+    "A": {
+      "A": "Glutamine",
+      "U": "Histidine",
+      "C": "Histidine",
+      "G": "Glutamine"
+    },
+    "U": {
+      "A": "Leucine",
+      "U": "Leucine",
+      "C": "Leucine",
+      "G": "Leucine"
+    },
+    "C": {
+      "A": "Proline",
+      "U": "Proline",
+      "C": "Proline",
+      "G": "Proline"
+    },
+    "G": {
+      "A": "Arginine",
+      "U": "Arginine",
+      "C": "Arginine",
+      "G": "Arginine"
+    }
+  },
+  "G": {
+    "A": {
+      "A": "Glutamic Acid",
+      "U": "Aspartic Acid",
+      "C": "Aspartic Acid",
+      "G": "Glutamic Acid"
+    },
+    "U": {
+      "A": "Valine",
+      "U": "Valine",
+      "C": "Valine",
+      "G": "Valine"
+    },
+    "C": {
+      "A": "Alanine",
+      "U": "Alanine",
+      "C": "Alanine",
+      "G": "Alanine"
+    },
+    "G": {
+      "A": "Glycine",
+      "U": "Glycine",
+      "C": "Glycine",
+      "G": "Glycine"
+    }
+  }
+}
