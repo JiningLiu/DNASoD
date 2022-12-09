@@ -116,7 +116,7 @@
     let tempString = sequence;
     let final = "";
     console.log(
-        "Before the process starts, please make sure that you've inputted your sequence in the YOUR_SEQUENCE variable. To begin, input 1 and press enter. If the process is taking over 15 seconds, please stop the process and check your sequence. (Only put DNA sequences in the variable, NOT mRNA, and make sure there is a space between each letter.)",
+        "Before the process starts, please make sure that you've inputted your sequence in the YOUR_SEQUENCE variable. To begin, input 1 and press enter. If the process is taking over 15 seconds, please stop the process and check your sequence. (Only put DNA sequences in the variable, NOT mRNA, and make sure there is a space between each letter. The default sequence in the variable is from the DNA Sequence of Doom assignment.)",
     );
     if (parseInt(await prompt("=")) == 1) {
         let forceBreak = false;
